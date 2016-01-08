@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\04\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\04\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\04\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\04\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\04\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb

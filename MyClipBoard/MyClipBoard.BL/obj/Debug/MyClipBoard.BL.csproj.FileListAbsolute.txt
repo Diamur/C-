@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard.BL\obj\Debug\MyClipBoard.BL.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard.BL\bin\Debug\MyClipBoard.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard.BL\bin\Debug\MyClipBoard.BL.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard.BL\obj\Debug\MyClipBoard.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard.BL\obj\Debug\MyClipBoard.BL.pdb

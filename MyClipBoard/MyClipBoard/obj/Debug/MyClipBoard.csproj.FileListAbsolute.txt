@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\obj\Debug\MyClipBoard.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\bin\Debug\MyClipBoard.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\bin\Debug\MyClipBoard.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\bin\Debug\MyClipBoard.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\bin\Debug\MyClipBoard.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\bin\Debug\MyClipBoard.BL.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\obj\Debug\MyClipBoard.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\obj\Debug\MyClipBoard.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\obj\Debug\MyClipBoard.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\MyClipBoard\MyClipBoard\obj\Debug\MyClipBoard.csproj.GenerateResource.Cache
