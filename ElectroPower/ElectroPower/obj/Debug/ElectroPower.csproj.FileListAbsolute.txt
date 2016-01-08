@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\bin\Debug\ElectroPower.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\bin\Debug\ElectroPower.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\bin\Debug\ElectroPower.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\bin\Debug\ElectroPower.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\bin\Debug\ElectroPower.BL.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\obj\Debug\ElectroPower.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\obj\Debug\ElectroPower.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\obj\Debug\ElectroPower.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\obj\Debug\ElectroPower.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower\obj\Debug\ElectroPower.pdb

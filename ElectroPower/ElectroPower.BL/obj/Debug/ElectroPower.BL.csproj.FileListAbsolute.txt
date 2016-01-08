@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower.BL\bin\Debug\ElectroPower.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower.BL\bin\Debug\ElectroPower.BL.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower.BL\obj\Debug\ElectroPower.BL.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower.BL\obj\Debug\ElectroPower.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\ElectroPower\ElectroPower.BL\obj\Debug\ElectroPower.BL.pdb

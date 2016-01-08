@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\bin\Debug\Hi.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\bin\Debug\Hi.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\bin\Debug\Hi.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\obj\Debug\Hi.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\obj\Debug\Hi.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\obj\Debug\Hi.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\obj\Debug\Hi.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Hi\Hi\obj\Debug\Hi.pdb

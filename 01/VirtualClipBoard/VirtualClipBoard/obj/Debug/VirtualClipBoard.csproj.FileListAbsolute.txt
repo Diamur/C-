@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\bin\Debug\VirtualClipBoard.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\bin\Debug\VirtualClipBoard.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\bin\Debug\VirtualClipBoard.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\obj\Debug\VirtualClipBoard.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\obj\Debug\VirtualClipBoard.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\obj\Debug\VirtualClipBoard.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\obj\Debug\VirtualClipBoard.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\01\VirtualClipBoard\VirtualClipBoard\obj\Debug\VirtualClipBoard.pdb

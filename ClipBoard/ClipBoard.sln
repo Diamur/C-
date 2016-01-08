@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipBoard", "ClipBoard\ClipBoard.csproj", "{D4262D4E-038F-48A0-A961-45F0826B19EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipBoard.BL", "ClipBoard.BL\ClipBoard.BL.csproj", "{DAD93B31-F62B-4F10-B2D5-49FC1FF7186C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4262D4E-038F-48A0-A961-45F0826B19EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4262D4E-038F-48A0-A961-45F0826B19EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4262D4E-038F-48A0-A961-45F0826B19EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4262D4E-038F-48A0-A961-45F0826B19EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD93B31-F62B-4F10-B2D5-49FC1FF7186C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD93B31-F62B-4F10-B2D5-49FC1FF7186C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD93B31-F62B-4F10-B2D5-49FC1FF7186C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD93B31-F62B-4F10-B2D5-49FC1FF7186C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
