@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\obj\Debug\Konverter.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\obj\Debug\Konverter.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\obj\Debug\Konverter.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\bin\Debug\Konverter.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\bin\Debug\Konverter.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\bin\Debug\Konverter.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\bin\Debug\Konverter.BL.dll
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\bin\Debug\Konverter.BL.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\obj\Debug\Konverter.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\Konverter\Konverter\obj\Debug\Konverter.pdb
